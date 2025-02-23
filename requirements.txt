@@ -7,4 +7,4 @@ textblob
 plotly
 wordcloud
 matplotlib
-urllib
+urllib3
