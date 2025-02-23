@@ -14,7 +14,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import RandomForestClassifier
 
-nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('stopwords')
 sw=nltk.corpus.stopwords.words("english")
 
